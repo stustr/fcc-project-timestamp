@@ -5,8 +5,7 @@
   "main": "index.js",
   "homepage": "https://stustr.github.io/fcc-project-timestamp",
   "scripts": {
-    "start": "nodemon index.js",
-    "dev": "vite",
+    "dev": "nodemon index",
     "build": "vite build",
     "preview": "vite preview"
   },
